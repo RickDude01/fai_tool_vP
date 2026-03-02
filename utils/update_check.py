@@ -23,7 +23,7 @@ from version import VERSION
 # Format: https://gist.githubusercontent.com/USERNAME/GIST_ID/raw/latest_version.json
 # (Remove the commit-hash segment so the URL always returns the latest content.)
 # ---------------------------------------------------------------------------
-UPDATE_URL = "https://gist.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GIST_ID/raw/latest_version.json"
+UPDATE_URL = "https://github.com/RickDude01/fai_tool_vP/releases/download/v1.0.0/FAI_Tool.exe"
 
 _update_info: "dict | None" = None
 

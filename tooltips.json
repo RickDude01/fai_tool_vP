@@ -1,0 +1,5 @@
+{
+  "part_number_status": "Lists all unique part numbers found in the workflow for your search. Whitelisted entries (parts that already passed FAI) are grouped separately from those still requiring a First Article Inspection.",
+  "inspection_checklist": "Splits the searched part number into its dash-separated segments and checks each one against the vendor's whitelisted base part numbers. A green \u2713 chip means that segment was previously approved via FAI. A grey \u2014 chip means FAI is required. Expand a green chip to see the matching whitelist entries.",
+  "raw_records": "Shows every raw workflow row that matched your search, with all original columns from the Excel file for full traceability."
+}

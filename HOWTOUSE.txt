@@ -1,0 +1,10 @@
+cd C:\Users\RicardoMunozJr\Documents\claude_projects\fai_tool
+python app.py
+
+http://127.0.0.1:5000
+
+
+FT-72SMR-LCULCUBW-ZP20-M78
+
+
+Rock 5 level 2 loc 50
